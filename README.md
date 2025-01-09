@@ -87,4 +87,17 @@ If you'd like to support the ongoing development and maintenance of this project
 - **[Patreon](https://www.patreon.com/mykytashcherbyna)**
 - **[PayPal Donation](https://www.paypal.com/donate/?hosted_button_id=9ETHFD5CQZVHL)**
 
+## HOW TO CONTRIBUTE
+We welcome contributions from the community! If you’d like to contribute, follow these steps:
+
+Fork the Repository: Click the "Fork" button to create a copy of the repository in your GitHub account.
+Clone the Repository: Clone the forked repository to your local machine using git clone <repository-url>.
+Create a Branch: Create a new branch for your changes using git checkout -b <branch-name>.
+Make Your Changes: Implement your changes, whether it’s fixing bugs, adding features, or improving documentation.
+Commit Your Changes: Stage and commit your changes with a meaningful commit message.
+Push to GitHub: Push the branch to your forked repository using git push origin <branch-name>.
+Create a Pull Request: Go to the original repository and create a pull request describing your changes.
+Feel free to explore open issues or suggest new ideas. Make sure to follow our contribution guidelines (link to guidelines if available) to ensure a smooth collaboration. Thank you for helping us improve this project!
+
+
 Your support helps me continue learning, growing, and contributing to the open-source community.
